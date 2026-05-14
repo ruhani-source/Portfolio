@@ -28,7 +28,7 @@ function Projects() {
                 rel="noopener noreferrer"
                 className="project-btn"
               >
-                View Project
+                View 
               </a>
             </div>
 
@@ -45,7 +45,7 @@ function Projects() {
                 rel="noopener noreferrer"
                 className="project-btn"
               >
-                View Project
+                View 
               </a>
             </div>
 
@@ -56,12 +56,12 @@ function Projects() {
               </p>
 
               <a
-                href=""
+                href="https://github.com/ruhani-source/Portfolio"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="project-btn"
               >
-                View Project
+                View 
               </a>
             </div>
 
@@ -78,7 +78,7 @@ function Projects() {
                 rel="noopener noreferrer"
                 className="project-btn"
               >
-                View Project
+                View
               </a>
             </div>
 
