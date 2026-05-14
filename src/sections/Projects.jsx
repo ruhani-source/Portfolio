@@ -52,7 +52,7 @@ function Projects() {
             <div className="project-card">
               <h3>Ruhani's portfolio</h3>
               <p>
-                This is my portfolio, built using JavaScript and React. 
+                This is my portfolio, designed using React and Vite. 
               </p>
 
               <a
