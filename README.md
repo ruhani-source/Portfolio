@@ -9,6 +9,4 @@ This is my personal developer portfolio built using React and Vite. It showcases
 - CSS
 - Vite
 
-### 🌐 Live Demo
 
-https://portfolio-ruhani-projects.vercel.app/ 
