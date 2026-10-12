@@ -18,8 +18,7 @@ function Projects() {
             <div className="project-card">
               <h3>SignalScope</h3>
               <p>
-                Built as a cybersecurity-focused frontend project simulating SOC
-                analyst workflows and decision-making under uncertainty.
+                Security Analytics Dashboard simulates a Security Operations Center (SOC) workflow where security events are analyzed to identify potentially suspicious activity.
               </p>
 
               <a
@@ -67,13 +66,13 @@ function Projects() {
 
 
             <div className="project-card">
-              <h3>Foundly</h3>
+              <h3>NOVA</h3>
               <p>
-                Lost and found web app with secure, confidence-based item matching.
+                Project intelligence platform that transforms unstructured project documents into actionable, searchable knowledge.
               </p>
 
               <a
-                href="https://github.com/AridjTair/Code-carats "
+                href="https://github.com/ruhani-source/NOVA "
                 target="_blank"
                 rel="noopener noreferrer"
                 className="project-btn"
