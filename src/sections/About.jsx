@@ -17,7 +17,7 @@ function About() {
           <h2>About Me</h2>
           <p>
             I'm a Computer Engineering student at Concordia University with a strong interest in the intersection of software and hardware.
-            I'm particularly interested in cybersecurity, and I enjoy learning how systems can be designed, tested, and secured from the ground up. 
+            I like working on various projects, and I enjoy learning how systems can be designed, tested, and secured from the ground up. 
           <p>
             
             </p>  
